@@ -49,7 +49,7 @@ python bot.py
 | 01.01.2023 | Продукты | 1500 |
 
 ## Зависимости
-Python 3.8+
-python-telegram-bot
-gspread
-oauth2client
+- Python 3.8+
+- python-telegram-bot
+- gspread
+- oauth2client
